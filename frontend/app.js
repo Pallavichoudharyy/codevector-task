@@ -1,5 +1,5 @@
 // Change this to your deployed backend URL when hosted
-const API_BASE = 'http://localhost:3000';
+const API_BASE = 'https://codevector-task-jd90.onrender.com';
 
 let cursorStack = [null]; // stack of cursors, index 0 = page 1
 let currentPage = 0;
